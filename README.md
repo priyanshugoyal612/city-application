@@ -3,6 +3,12 @@ This application is for City list, This contains two repository or main project 
 citylistapp (Backend) - Spring Boot Application
 citylistui (Forntend) - Angular Framework Application
 
+Technical clarification
+• Spring Boot
+• Maven
+• H2 database
+• Angular 2
+
 
 ## How to run
 * To run Spring Boot Application and Angular application please do followings:
