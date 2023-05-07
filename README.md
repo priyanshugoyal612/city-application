@@ -1,13 +1,13 @@
 # City List Application By Priyanshu Goyal
 This application is for City list, This contains two repository or main project i.e. 
-citylistapp (Backend) - Spring Boot Application
+citylistapp (Backend) - Spring Boot Application 
 citylistui (Forntend) - Angular Framework Application
 
 Technical clarification
 • Spring Boot
 • Maven
 • H2 database
-• Angular 2
+• Angular 2 
 
 
 ## How to run
